@@ -6,13 +6,13 @@ ServerAuditor ssh config utility
 Prerequisites
 -------------
 
-Our package requires `cryptolibrary <https://pypi.python.org/pypi/pycrypto>`_, so please install Python Development Libraries for it, for example:
+Our package requires `cryptolibrary <https://pypi.python.org/pypi/pycrypto>`_, so please install Python Development Libraries for it. If you're on Ubuntu/Debian:
 
 .. code-block:: bash
 
     $ sudo apt-get install python-dev
 
-or
+or if you use Fedora/RedHat
 
 .. code-block:: bash
 
